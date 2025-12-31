@@ -1,0 +1,5 @@
+{
+  "name": "Marathi Event Pulse (घटना चर्चा)",
+  "description": "A real-time event discussion platform in Marathi, powered by Gemini with Google Search grounding for up-to-the-minute accuracy on global and local events.",
+  "requestFramePermissions": []
+}
